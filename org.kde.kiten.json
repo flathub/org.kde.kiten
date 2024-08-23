@@ -18,8 +18,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.05.2/src/kiten-24.05.2.tar.xz",
-                    "sha256": "62aeccfcd3f4d9f897d92be988224b47c1946fa28dc219985af2ca2c63c1a5e4",
+                    "url": "https://download.kde.org/stable/release-service/24.08.0/src/kiten-24.08.0.tar.xz",
+                    "sha256": "7f929f7d503b074786fa9693d180b9ffd9c2d7405a33906e91af7237ee7154b2",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
