@@ -11,6 +11,10 @@
         "--socket=fallback-x11",
         "--socket=wayland"
     ],
+     "cleanup": [
+        "/include",
+        "/share/doc"
+    ],
     "modules": [
         {
             "name": "kiten",
