@@ -22,8 +22,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/26.04.2/src/kiten-26.04.2.tar.xz",
-                    "sha256": "a04e6ab99cc78e59b38f082d4f4411eae3cd10395a79a2bd122805f8fd83afa0",
+                    "url": "https://download.kde.org/stable/release-service/26.04.3/src/kiten-26.04.3.tar.xz",
+                    "sha256": "47a29bd37b8aebe46b5f7fa011a511dbe0252813bcd02fe4ffaeffa64f4418cf",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
